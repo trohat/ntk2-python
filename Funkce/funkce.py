@@ -10,4 +10,3 @@ privitani_zakaznika()
 print("Vaše rezervace je připravena.")
 privitani_zakaznika()
 privitani_zakaznika()
-

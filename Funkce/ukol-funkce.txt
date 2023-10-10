@@ -1,4 +1,4 @@
-https://github.com/trohat/ntk2-python
+https://github.com/trohat/ntk2-python (soubor funkce.txt)
 
 1.) Napište funkci, která pozdraví a přivítá hosta na večírku
  (tedy vytiskne několik uvítacích vět).
